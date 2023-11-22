@@ -1,6 +1,6 @@
 # Bem-vindo ao meu ![GitHub](https://img.shields.io/badge/GitHub-%234FC08D?style=flat-square&logo=github&logoColor=white) 👋
 
-Eaeh!! Sou o **Jorge Júnior**, um designer explorando o mundo da programação.
+### Eaeh!! Sou o **Jorge Júnior**, um designer explorando o mundo da programação.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeddsjnr&show_icons=true&theme=vue-dark)
 
